@@ -1,6 +1,6 @@
 # BankMarketing
 
-In this repository, I take a look at the UCI Machine Learning Repository **Bank Marketing Data Set** [link](https://archive.ics.uci.edu/ml/datasets/bank+marketing).
+In this repository, I take a look at the UCI Machine Learning Repository [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/bank+marketing).
 
 In particular, I use python to explore the data and built a model to predict the key factors in predicting whether the client will subscribe a term deposit or not.
 
