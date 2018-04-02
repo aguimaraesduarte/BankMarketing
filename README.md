@@ -6,7 +6,7 @@ In particular, I use python to explore the data and built a model to predict the
 
 For reference, here are the attributes information in `bank-full.csv`:
 
-##Input variables:
+## Input variables:
 ### bank client data:
 1. age (numeric)
 2. job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
