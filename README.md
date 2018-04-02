@@ -5,6 +5,7 @@ In this repository, I take a look at the UCI Machine Learning Repository **Bank 
 In particular, I use python to explore the data and built a model to predict the key factors in predicting whether the client will subscribe a term deposit or not.
 
 For reference, here are the attributes information in `bank-full.csv`:
+
 **Input variables:**
 ## bank client data:
 1. age (numeric)
