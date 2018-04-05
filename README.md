@@ -1,10 +1,12 @@
 # BankMarketing
 
-In this repository, I take a look at the UCI Machine Learning Repository [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/bank+marketing).
+In this repository, I take a look at the UCI Machine Learning Repository [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/bank+marketing). See the jupyter notebook for a look at the work made.
 
 In particular, I use python to explore the data and answer the questions asked in the PDF. Libraries used include `pandas`, `numpy`, `scipy`, `matplotlib`, and `seaborn`.
 
-Time permitting, I want to build a model to predict whether the client will subscribe a term deposit or not based on the key factors identified. In this case, `sklearn` will also be used.
+I also built a model to predict whether the client will subscribe a term deposit or not based on the key factors identified. For this, `sklearn` was also used.
+
+Because of time constraints, I did not have a lot of time to work on the predictive models to optimize them (or try other classification methods, such as decision trees, SVM, or even neural networks). The section about machine learning serves as an opening for possible future endeavors with this dataset.
 
 For reference, here are the attributes information in `bank-full.csv`:
 
